@@ -1,1 +1,5 @@
-# PublicRepoOrg
+Calculator Repo 
+
+Dependencies:
+numpy
+pandas
